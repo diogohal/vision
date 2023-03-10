@@ -1,3 +1,6 @@
 [submodule "Computudos-Simulator"]
 	path = StudyProjects/Computudos-Simulator
 	url = git@github.com:gab-simon/Computudos-Simulator.git
+[submodule "StudyProjects/Computudos-Simulator"]
+	path = StudyProjects/Computudos-Simulator
+	url = git@github.com:gab-simon/Computudos-Simulator.git
