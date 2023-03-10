@@ -1,0 +1,3 @@
+[submodule "Computudos-Simulator"]
+	path = Computudos-Simulator
+	url = git@github.com:gab-simon/Computudos-Simulator.git
