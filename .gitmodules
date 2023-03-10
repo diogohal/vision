@@ -7,3 +7,6 @@
 [submodule "StudyProjects/naive-robot-tracker"]
 	path = StudyProjects/naive-robot-tracker
 	url = git@github.com:diogohal/naive-robot-tracker.git
+[submodule "StudyProjects/intensity-map-similarity-measures"]
+	path = StudyProjects/intensity-map-similarity-measures
+	url = git@github.com:diogohal/intensity-map-similarity-measures.git
