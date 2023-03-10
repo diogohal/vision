@@ -10,3 +10,6 @@
 [submodule "StudyProjects/intensity-map-similarity-measures"]
 	path = StudyProjects/intensity-map-similarity-measures
 	url = git@github.com:diogohal/intensity-map-similarity-measures.git
+[submodule "StudyProjects/face-superposition-normalization"]
+	path = StudyProjects/face-superposition-normalization
+	url = git@github.com:diogohal/face-superposition-normalization.git
